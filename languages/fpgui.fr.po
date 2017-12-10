@@ -63,7 +63,7 @@ msgstr "Echantillonnage"
 
 #: fpg_constants:rsshortapr
 msgid "Apr"
-msgstr "Avr."
+msgstr "Avr"
 
 #: fpg_constants:rslongapr
 msgid "April"
@@ -75,7 +75,7 @@ msgstr "Attributs"
 
 #: fpg_constants:rsshortaug
 msgid "Aug"
-msgstr "Août"
+msgstr "Aoû"
 
 #: fpg_constants:rslongaug
 msgid "August"
@@ -183,7 +183,7 @@ msgstr "Base de données"
 
 #: fpg_constants:rsshortdec
 msgid "Dec"
-msgstr "Déc."
+msgstr "Déc"
 
 #: fpg_constants:rslongdec
 msgid "December"
@@ -267,7 +267,7 @@ msgstr "Favoris"
 
 #: fpg_constants:rsshortfeb
 msgid "Feb"
-msgstr "Févr."
+msgstr "Fév"
 
 #: fpg_constants:rslongfeb
 msgid "February"
@@ -375,7 +375,7 @@ msgstr "L'élément n'est pas du type <%s> !"
 
 #: fpg_constants:rsshortjan
 msgid "Jan"
-msgstr "Janv."
+msgstr "Jan"
 
 #: fpg_constants:rslongjan
 msgid "January"
@@ -383,7 +383,7 @@ msgstr "Janvier"
 
 #: fpg_constants:rsshortjul
 msgid "Jul"
-msgstr "Juill."
+msgstr "Jul"
 
 #: fpg_constants:rslongjul
 msgid "July"
@@ -391,7 +391,7 @@ msgstr "Juillet"
 
 #: fpg_constants:rsshortjun
 msgid "Jun"
-msgstr "Juin"
+msgstr "Jun"
 
 #: fpg_constants:rslongjun
 msgid "June"
@@ -407,7 +407,7 @@ msgstr "La liste doit être vide"
 
 #: fpg_constants:rsshortmar
 msgid "Mar"
-msgstr "Mars"
+msgstr "Mar"
 
 #: fpg_constants:rslongmar
 msgid "March"
@@ -459,7 +459,7 @@ msgstr "Non à tous"
 
 #: fpg_constants:rsshortnov
 msgid "Nov"
-msgstr "Nov."
+msgstr "Nov"
 
 #: fpg_constants:rslongnov
 msgid "November"
@@ -471,7 +471,7 @@ msgstr "OK"
 
 #: fpg_constants:rsshortoct
 msgid "Oct"
-msgstr "Oct."
+msgstr "Oct"
 
 #: fpg_constants:rslongoct
 msgid "October"
@@ -599,7 +599,7 @@ msgstr "Choisir la police de caractères"
 
 #: fpg_constants:rsshortsep
 msgid "Sep"
-msgstr "Sep."
+msgstr "Sep"
 
 #: fpg_constants:rslongsep
 msgid "September"
